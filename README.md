@@ -1,5 +1,18 @@
 # Retail Store Manager
 
+[![status: archived](https://img.shields.io/badge/status-archived-lightgrey.svg)](https://github.com/GIScience/badges#archive)
+> ⚠ **Note:** This repository has been **archived** and is no longer maintained.
+```
+This project was implemented as part of a school challenge at JKUAT (Jomo Kenyatta University of Agriculture and Technology) in 2022.
+It is no longer in active use, and there are no current or future plans to contribute to or develop this repository further.
+
+The code and history remain available for reference. Feel free to browse or fork, but please be aware that:
+- Issues and pull requests are disabled
+- No support or updates will be provided
+
+Thanks for your interest!
+```
+
 ## Introduction
 This is a retail store manager CLI (command-line) Java application.
 This application was written in response to a challenge posed by my Object-Oriented Programming lecturer to develop a Retail Store manager application. This CLI Java application seeks to demonstrate learned object-oriented principles and practices such as:
